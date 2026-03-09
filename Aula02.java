@@ -6,7 +6,7 @@ public class Aula02 {
         int opcao;
         
         do {
-            System.out.println("\n=== Loja de Plantas da Dona Gabrielinha ===");
+            System.out.println("\n== Loja de Plantas da Dona Gabrielinha ==");
             System.out.println("[1] - Calcular Preço Total");
             System.out.println("[2] - Calcular Troco");
             System.out.println("[3] - Sair");
